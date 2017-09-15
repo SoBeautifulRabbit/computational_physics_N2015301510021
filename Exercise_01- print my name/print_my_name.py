@@ -1,0 +1,46 @@
+# This program is used to print my name
+
+print("method_1")
+print("This is the simplest method.")
+
+print("The acronym of my name is:")
+print("")
+print("#         ######    #       #")
+print("#         #     #    #     #")
+print("#         #      #    #   #")
+print("#         #       #    # #")
+print("#         #       #     #")
+print("#         #       #    # # ")
+print("#         #      #    #   #")
+print("#         #     #    #     #")
+print("########  ######    #       #")
+print("The acronym of my name is: LDX")
+
+print("")
+print("")
+print("My full name is:")
+print("")
+print("#     #  ###             ")
+print("#        #  #            ")
+print("#     #  #   # #### #### #### # # #  #")
+print("#     #  #  #  #  # #  # #  #  #  #  #")
+print("##### #  ###   #### #  # #### # # ####")
+print("                            #")
+print("                         ####")
+print("My full name is: Li Dongxu")
+print("")
+
+print("Here is another method:")
+import time      # A short pause allows you to glance at the message above.
+time.sleep(1)
+print("A window should pop up now...")
+time.sleep(1)
+
+import tkinter
+tk=tkinter.Tk()
+canvas= tkinter.Canvas(tk, width=480,height=270)
+canvas.pack()
+canvas.create_text(240,100,text="我的名字是：",font=(70))
+canvas.create_text(230,150,text="李东旭",font=(70),fill='blue')
+tk.title("我的名字")
+tk.mainloop()
