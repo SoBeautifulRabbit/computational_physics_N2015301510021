@@ -11,7 +11,7 @@ The first method simply repeats the "print" command with symbol "#".
 Here is a screenshot of the result:
 </br>
 </br>
-![re1]((https://github.com/SoBeautifulRabbit/computational_physics_N2015301510021/blob/master/Exercise_01-%20print%20my%20name/re01.jpg )
+![re1](https://github.com/SoBeautifulRabbit/computational_physics_N2015301510021/blob/master/Exercise_01-%20print%20my%20name/re01.jpg)
 </br>
 </br>
 A second method is to use the tkinter package.
@@ -25,7 +25,7 @@ Here is a screenshot of the result:
 </br>
 Note that tkinter package is included in Anaconda3 (conda version : 4.3.21; python version : 3.6.1.final.0)
 You can find the source code in this directory.
-##Thank you！
+## Thank you！
 ---
 Reference:
 * Jamie Chan. Learn Python in one day and learn it well. POST&TELECOM PRESS.
