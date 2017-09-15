@@ -11,7 +11,7 @@ The first method simply repeats the "print" command with symbol "#".
 Here is a screenshot of the result:
 </br>
 </br>
-![re1](https:/Jas/github.com/SoBeautifulRabbit/computational_physics_N2015301510021/blob/master/Exercise_01-%20print%20my%20name/re01.bmp)
+![re1](https:/Jas/github.com/SoBeautifulRabbit/computational_physics_N2015301510021/blob/master/Exercise_01-%20print%20my%20name/re01.jpg)
 </br>
 </br>
 A second method is to use the tkinter package.
@@ -20,7 +20,7 @@ In this way, I can print Chinese words in a window.
 Here is a screenshot of the result:
 </br>
 </br>
-![re1](https://github.com/SoBeautifulRabbit/computational_physics_N2015301510021/blob/master/Exercise_01-%20print%20my%20name/re02.bmp)
+![re1](https://github.com/SoBeautifulRabbit/computational_physics_N2015301510021/blob/master/Exercise_01-%20print%20my%20name/re02.jpg)
 </br>
 </br>
 Note that tkinter package is included in Anaconda3 (conda version : 4.3.21; python version : 3.6.1.final.0)
