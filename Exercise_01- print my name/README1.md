@@ -26,7 +26,7 @@ Here is a screenshot of the result:
 Note that tkinter package is included in Anaconda3 (conda version : 4.3.21; python version : 3.6.1.final.0)
 You can find the source code in this directory.
 ## Thank you！
----
+
 Reference:
 * Jamie Chan. Learn Python in one day and learn it well. POST&TELECOM PRESS.
 * Jason R. Briggs. Python for kids. POST&TELECOM PRESS.
