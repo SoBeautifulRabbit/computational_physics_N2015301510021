@@ -6,3 +6,8 @@
 * Practice with How to think like a computer scientist – Learning with Python: Interactive Edition 2.0
 * Print my name on the screen
 ---
+Two methods are used to print my name on the screen.
+The first method simply repeats the "print" command with symbol "#".
+Here is a screenshot of the result:
+
+You can find the source code in this directory。
