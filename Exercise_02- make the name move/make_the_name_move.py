@@ -20,7 +20,7 @@ for i in (1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20):
     t=os.system('cls')
     # use cls to clean the screen before printing the result each time
     
-    # the following loop uses commands in the formated strings to print the result
+    # the following loop uses commands in the formatted strings to print the result
     for j in (1,2,3,4,5,6,7,8,9):
         exec('b_%d=space+a_%d'%(j,j))
         exec('print(b_%d)'%(j))
