@@ -9,8 +9,8 @@
 - [x] [Source code & materials for Exercise_02](https://github.com/SoBeautifulRabbit/computational_physics_N2015301510021/tree/master/Exercise_02-%20make%20the%20name%20move)
 </br>
 
-- [ ] [Exercise_03-Problem1.6_A_Simple_Population_Model](http://note.youdao.com/noteshare?id=71be9b3147f8de35a7c83403fef3e943&sub=WEB8bf24e1af4dfb745d86be0a4d67ba03d)
-- [ ] [Source code & materials for Exercise_03](https://github.com/SoBeautifulRabbit/computational_physics_N2015301510021/tree/master/Exercise_03-Problem1.6_A_Simple_Population_Model)
+- [x] [Exercise_03-Problem1.6_A_Simple_Population_Model](http://note.youdao.com/noteshare?id=71be9b3147f8de35a7c83403fef3e943&sub=WEB8bf24e1af4dfb745d86be0a4d67ba03d)
+- [x] [Source code & materials for Exercise_03](https://github.com/SoBeautifulRabbit/computational_physics_N2015301510021/tree/master/Exercise_03-Problem1.6_A_Simple_Population_Model)
 </br>
 
 ## Thank you!
