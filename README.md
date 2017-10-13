@@ -9,8 +9,10 @@
 - [x] [Source code & materials for Exercise_02](https://github.com/SoBeautifulRabbit/computational_physics_N2015301510021/tree/master/Exercise_02-%20make%20the%20name%20move)
 </br>
 
-- [x] [Exercise_03-Problem1.6_A_Simple_Population_Model](http://note.youdao.com/noteshare?id=71be9b3147f8de35a7c83403fef3e943&sub=WEB8bf24e1af4dfb745d86be0a4d67ba03d)
+- [x] [Exercise_03: Problem1.6_A_Simple_Population_Model](http://note.youdao.com/noteshare?id=71be9b3147f8de35a7c83403fef3e943&sub=WEB8bf24e1af4dfb745d86be0a4d67ba03d)
 - [x] [Source code & materials for Exercise_03](https://github.com/SoBeautifulRabbit/computational_physics_N2015301510021/tree/master/Exercise_03-Problem1.6_A_Simple_Population_Model)
 </br>
 
+- [x] [Exercise_04: Problem2.8 The Trajectory of a Cannon Shell](http://note.youdao.com/noteshare?id=d8570f0c5be621e06123c8d967340d87&sub=35B1B418669344A2B25E4FAA5A8EFAC5)
+- [x] [Source code & materials for Exercise_04](https://github.com/SoBeautifulRabbit/computational_physics_N2015301510021/tree/master/Exercise_04-%20Problem2.8_The_Trajectory_of_a_Cannon_Shell)
 ## Thank you!
