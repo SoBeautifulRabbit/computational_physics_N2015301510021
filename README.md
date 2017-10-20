@@ -16,7 +16,7 @@
 - [x] [Exercise_04: Problem2.8 The Trajectory of a Cannon Shell](http://note.youdao.com/noteshare?id=d8570f0c5be621e06123c8d967340d87&sub=35B1B418669344A2B25E4FAA5A8EFAC5)
 - [x] [Source code & materials for Exercise_04](https://github.com/SoBeautifulRabbit/computational_physics_N2015301510021/tree/master/Exercise_04-%20Problem2.8_The_Trajectory_of_a_Cannon_Shell)
 
-突然发现上次写的Exercise 04分享的有道云笔记被“和蟹”了，与网易公司交涉未果。究其原因，大概是因为最近在开一个重要的会议，应该等到月底会议结束就恢复正常了。给助教哥哥姐姐及老师带来的不变请谅解！
+突然发现上次写的Exercise 04分享的有道云笔记被“和蟹”了，与网易公司交涉未果。究其原因，大概是因为最近在开一个重要的会议，应该等到月底会议结束就恢复正常了。给您带来的不便请谅解！
 
 - [ ] [Exercise_05: Problem2.18 Backspin of a Ball](http:)
 - [ ] [Source code & materials for Exercise_05](https://)
