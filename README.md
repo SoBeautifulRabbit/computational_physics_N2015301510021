@@ -18,7 +18,7 @@
 
 突然发现上次写的Exercise 04分享的有道云笔记被“和蟹”了，与网易公司交涉未果。究其原因，大概是因为最近在开一个重要的会议，应该等到月底会议结束就恢复正常了。给您带来的不便请谅解！
 
-- [ ] [Exercise_05: Problem2.18 Backspin of a Ball](http:)
+- [x] [Exercise_05: Problem2.18 Backspin of a Ball](http://note.youdao.com/noteshare?id=1a051c3a4edf6da80abc9f736588a770&sub=738C6ED35CDD4A77BBB56568F66A41BA)
 - [ ] [Source code & materials for Exercise_05](https://)
 
 
