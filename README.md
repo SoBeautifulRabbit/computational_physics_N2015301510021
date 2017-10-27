@@ -21,10 +21,12 @@
 - [x] [Source code & materials for Exercise_05](https://github.com/SoBeautifulRabbit/computational_physics_N2015301510021/tree/master/Exercise_05-%20Problem2.18_Backspin_of_a_Ball)
 </br>
 
-Exercise 04已恢复正常。上周看它的时候，发现它被“和蟹”了，现在又可以看了。给您带来的麻烦请谅解！
+Exercise 04已恢复正常。上周看它的时候，发现它被“和蟹”了，现在又可以看了。给您带来的麻烦请谅解！\
+以下是本次作业：
+</br>
 
-- [ ] [Exercise_06: Problem3.10 Chaos in the Driven Nonlinear Pendulum](http://note.youdao.com/noteshare?id=9c453927ab19b13bccbcfa630f0d4828&sub=B98837925E61495AAA96D62866939752)
-- [ ] [Source code & materials for Exercise_06](https://github.com/SoBeautifulRabbit/computational_physics_N2015301510021/tree/master/Exercise_06-%20Problem3.10_Chaos_in_the_Driven_Nonlinear_Pendulum)
+- [x] [Exercise_06: Problem3.10 Chaos in the Driven Nonlinear Pendulum](http://note.youdao.com/noteshare?id=9c453927ab19b13bccbcfa630f0d4828&sub=B98837925E61495AAA96D62866939752)
+- [x] [Source code & materials for Exercise_06](https://github.com/SoBeautifulRabbit/computational_physics_N2015301510021/tree/master/Exercise_06-%20Problem3.10_Chaos_in_the_Driven_Nonlinear_Pendulum)
 </br>
 
 ## Thank you!
