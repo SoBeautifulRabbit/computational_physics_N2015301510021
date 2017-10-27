@@ -21,6 +21,9 @@
 - [x] [Exercise_05: Problem2.18 Backspin of a Ball](http://note.youdao.com/noteshare?id=1a051c3a4edf6da80abc9f736588a770&sub=738C6ED35CDD4A77BBB56568F66A41BA)
 - [x] [Source code & materials for Exercise_05](https://github.com/SoBeautifulRabbit/computational_physics_N2015301510021/tree/master/Exercise_05-%20Problem2.18_Backspin_of_a_Ball)
 
+- [ ] [Exercise_06: Problem3.10 Chaos in the Driven Nonlinear Pendulum](http://note.youdao.com/noteshare?id=9c453927ab19b13bccbcfa630f0d4828&sub=B98837925E61495AAA96D62866939752)
+22
+- [ ] [Source code & materials for Exercise_05](https://github.com/SoBeautifulRabbit/computational_physics_N2015301510021/tree/master/Exercise_05-%20Problem2.18_Backspin_of_a_Ball)
 
 
 ## Thank you!
