@@ -15,14 +15,16 @@
 
 - [x] [Exercise_04: Problem2.8 The Trajectory of a Cannon Shell](http://note.youdao.com/noteshare?id=d8570f0c5be621e06123c8d967340d87&sub=35B1B418669344A2B25E4FAA5A8EFAC5)
 - [x] [Source code & materials for Exercise_04](https://github.com/SoBeautifulRabbit/computational_physics_N2015301510021/tree/master/Exercise_04-%20Problem2.8_The_Trajectory_of_a_Cannon_Shell)
-
-Exercise 04已恢复正常。上周看它的时候，发现它被“和蟹”了，现在又可以看了。给您带来的麻烦请谅解！
+</br>
 
 - [x] [Exercise_05: Problem2.18 Backspin of a Ball](http://note.youdao.com/noteshare?id=1a051c3a4edf6da80abc9f736588a770&sub=738C6ED35CDD4A77BBB56568F66A41BA)
 - [x] [Source code & materials for Exercise_05](https://github.com/SoBeautifulRabbit/computational_physics_N2015301510021/tree/master/Exercise_05-%20Problem2.18_Backspin_of_a_Ball)
+</br>
+
+Exercise 04已恢复正常。上周看它的时候，发现它被“和蟹”了，现在又可以看了。给您带来的麻烦请谅解！
 
 - [ ] [Exercise_06: Problem3.10 Chaos in the Driven Nonlinear Pendulum](http://note.youdao.com/noteshare?id=9c453927ab19b13bccbcfa630f0d4828&sub=B98837925E61495AAA96D62866939752)
 - [ ] [Source code & materials for Exercise_06](https://github.com/SoBeautifulRabbit/computational_physics_N2015301510021/tree/master/Exercise_06-%20Problem3.10_Chaos_in_the_Driven_Nonlinear_Pendulum)
-
+</br>
 
 ## Thank you!
