@@ -25,8 +25,8 @@
 - [x] [Source code & materials for Exercise_06](https://github.com/SoBeautifulRabbit/computational_physics_N2015301510021/tree/master/Exercise_06-%20Problem3.10_Chaos_in_the_Driven_Nonlinear_Pendulum)
 </br>
 
-- [ ] [Exercise_07: Problem3.20 Bifurcation Diagram](http://)
-- [ ] [Source code & materials for Exercise_07](https://github.com/SoBeautifulRabbit/computational_physics_N2015301510021/tree/master/Exercise_07-%20Problem3.20_Bifurcation_Diagram)
+- [x] [Exercise_07: Problem3.20 Bifurcation Diagram](http://note.youdao.com/noteshare?id=596b537faa1724930e60b0a0c33e79b0&sub=4471E339EC044A7C81433B55E8340118)
+- [x] [Source code & materials for Exercise_07](https://github.com/SoBeautifulRabbit/computational_physics_N2015301510021/tree/master/Exercise_07-%20Problem3.20_Bifurcation_Diagram)
 </br>
 
 ## Thank you!
