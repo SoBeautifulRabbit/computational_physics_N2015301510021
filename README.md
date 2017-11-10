@@ -29,8 +29,8 @@
 - [x] [Source code & materials for Exercise_07](https://github.com/SoBeautifulRabbit/computational_physics_N2015301510021/tree/master/Exercise_07-%20Problem3.20_Bifurcation_Diagram)
 </br>
 
-- [ ] [Exercise_08: Problem3.33 Power Spectrum for a Pendulum](http://note.youdao.com/noteshare?id=596b537faa1724930e60b0a0c33e79b0&sub=4471E339EC044A7C81433B55E8340118)
-- [ ] [Source code & materials for Exercise_08](https://github.com/SoBeautifulRabbit/computational_physics_N2015301510021/tree/master/Exercise_08-%20Problem3.33_Power_Spectrum_for_a_pendulum)
+- [x] [Exercise_08: Problem3.33 Power Spectrum for a Pendulum](http://note.youdao.com/noteshare?id=c671d6ad22585eb46b97909941da34f6&sub=85F68E6EABD54B35AF301BEA328BE438)
+- [x] [Source code & materials for Exercise_08](https://github.com/SoBeautifulRabbit/computational_physics_N2015301510021/tree/master/Exercise_08-%20Problem3.33_Power_Spectrum_for_a_pendulum)
 </br>
 
 - [ ] [Midterm: A Little Game](https://github.com/SoBeautifulRabbit/computational_physics_N2015301510021/tree/master/Midterm_A_Little_Game)
