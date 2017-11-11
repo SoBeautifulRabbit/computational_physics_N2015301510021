@@ -29,13 +29,15 @@
 - [x] [Source code & materials for Exercise_07](https://github.com/SoBeautifulRabbit/computational_physics_N2015301510021/tree/master/Exercise_07-%20Problem3.20_Bifurcation_Diagram)
 </br>
 
-- [x] [Midterm: A Little Game(期中作业已完成 ^ ^)](https://github.com/SoBeautifulRabbit/computational_physics_N2015301510021/tree/master/Midterm_A_Little_Game)
-</br>
-
 - [x] [Exercise_08: Problem3.33 Power Spectrum for a Pendulum](http://note.youdao.com/noteshare?id=c671d6ad22585eb46b97909941da34f6&sub=85F68E6EABD54B35AF301BEA328BE438)
 - [x] [Source code & materials for Exercise_08](https://github.com/SoBeautifulRabbit/computational_physics_N2015301510021/tree/master/Exercise_08-%20Problem3.33_Power_Spectrum_for_a_pendulum)
 </br>
 
+- [x] [Midterm: A Little Game(期中作业已完成 ^ ^)](https://github.com/SoBeautifulRabbit/computational_physics_N2015301510021/tree/master/Midterm_A_Little_Game)
+</br>
+其中作业是一个Pygame写的游戏，请下载压缩包后，解压到一个目录下，将工作目录切换到该目录，即可运行游戏。
+游戏是在windows下编写和调试的，不保证可以在OS X和Linux系统上运行(因为字体的原因)。
+程序保证是100%自己编写，其中的音乐来自《海绵宝宝（第7季，2009年），从优酷网下载，用格式工厂提取片尾曲；图片也来自《海绵宝宝（第7季，2009年），从优酷网下载，用Photoshop抠图获得透明背景的PNG文件。
 
 
 ## Thank you!
