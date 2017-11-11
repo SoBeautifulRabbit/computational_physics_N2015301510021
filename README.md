@@ -29,8 +29,7 @@
 - [x] [Source code & materials for Exercise_07](https://github.com/SoBeautifulRabbit/computational_physics_N2015301510021/tree/master/Exercise_07-%20Problem3.20_Bifurcation_Diagram)
 </br>
 
-- [ ] [Midterm: A Little Game(期中作业半成品，24小时之内(11月11日晚11点前)即可完工，请先看下面的本次作业 ^ ^)](https://github.com/SoBeautifulRabbit/computational_physics_N2015301510021/tree/master/Midterm_A_Little_Game)
-- [ ] [Source code for my game(其中作业半成品，24小时之内(11月11日晚11点前)即可完工，请先看下面的本次作业 ^ ^)](https://github.com/SoBeautifulRabbit/computational_physics_N2015301510021/tree/master/Midterm_A_Little_Game)
+- [x] [Midterm: A Little Game(期中作业已完成 ^ ^)](https://github.com/SoBeautifulRabbit/computational_physics_N2015301510021/tree/master/Midterm_A_Little_Game)
 </br>
 
 - [x] [Exercise_08: Problem3.33 Power Spectrum for a Pendulum](http://note.youdao.com/noteshare?id=c671d6ad22585eb46b97909941da34f6&sub=85F68E6EABD54B35AF301BEA328BE438)
