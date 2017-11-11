@@ -4,7 +4,7 @@
 
 程序保证是100%自己编写，其中的音乐来自《海绵宝宝(第7季，2009年)》，从优酷网下载，用格式工厂提取片尾曲；图片也来自《海绵宝宝(第7季，2009年)》，从优酷网下载，用Photoshop抠图获得透明背景的PNG文件。
 
-游戏截图(github图片加载很慢，请稍等一会儿)：
+游戏截图(github图片加载很慢，要按F5刷新几次才能完全显示出来)：
 <center>
 <img src="http://note.youdao.com/yws/api/personal/file/ED32F83A5DEF45CD95572D909A23D0DC?method=download&shareKey=b17295342819d7043b9b930dab35a827" width="60%" height="60%" />
 </center>
