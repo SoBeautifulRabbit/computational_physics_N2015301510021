@@ -33,17 +33,14 @@
 - [x] [Source code & materials for Exercise_08](https://github.com/SoBeautifulRabbit/computational_physics_N2015301510021/tree/master/Exercise_08-%20Problem3.33_Power_Spectrum_for_a_pendulum)
 </br>
 
-- [x] [Midterm: A Little Game(期中作业已完成 ^ ^)](https://github.com/SoBeautifulRabbit/computational_physics_N2015301510021/tree/master/Midterm_A_Little_Game)
+- [x] [Midterm: A Little Game(^ ^)](https://github.com/SoBeautifulRabbit/computational_physics_N2015301510021/tree/master/Midterm_A_Little_Game)
 </br>
 
-期中作业是一个Pygame写的游戏，请下载压缩包后，解压到一个目录下，将工作目录切换到该目录，即可运行游戏。
+- [x] [Exercise_09: The Three-body Problem](http://note.youdao.com/noteshare?id=1d51a5e229cafeb6e967bd81ed28f59a&sub=59E64DB105614452A50D2E6C3C165462)
+- [x] [Source code & materials for Exercise_09](https://github.com/SoBeautifulRabbit/computational_physics_N2015301510021/tree/master/Exercise_09-%20The_Three-body_Problem)
+</br>
 
-游戏是在windows下编写和调试的，不完全保证可以在OS X和Linux系统上运行(因为字体的原因)。
-
-程序保证是100%自己编写，其中的音乐来自《海绵宝宝(第7季，2009年)》，从优酷网下载，用格式工厂提取片尾曲；图片也来自《海绵宝宝(第7季，2009年)》，从优酷网下载，用Photoshop抠图获得透明背景的PNG文件。
-
-<center>
-<img src="http://note.youdao.com/yws/api/personal/file/ED32F83A5DEF45CD95572D909A23D0DC?method=download&shareKey=b17295342819d7043b9b930dab35a827" width="60%" height="60%" />
-</center>
 
 ## Thank you!
+
+
