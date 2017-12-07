@@ -1,4 +1,5 @@
 # Homework list
+### 李东旭 2015301510021
 #### Hello~  This is Li Dongxu's homework list.</br>By clicking on each title, you can easily redirect yourself to each exercise.
 
 - [x] [Exercise_01: print my name](https://github.com/SoBeautifulRabbit/computational_physics_N2015301510021/tree/master/Exercise_01-%20print%20my%20name/README.md)
@@ -40,7 +41,9 @@
 - [x] [Source code & materials for Exercise_09](https://github.com/SoBeautifulRabbit/computational_physics_N2015301510021/tree/master/Exercise_09-%20The_Three-body_Problem)
 </br>
 
+- [x] [Exercise_10: Electric potential inside a prism](http://note.youdao.com/noteshare?id=65ef844d1903367bc7db95ecce9db28b&sub=1B603B519D64456AB667AA5CA35E0B36)
+- [x] [Source code & materials for Exercise_09](https://github.com/SoBeautifulRabbit/computational_physics_N2015301510021/tree/master/Exercise_10-%20Problem5.1_Electric_potential_inside_a_prismm)
+</br>
 
 ## Thank you!
-
 
