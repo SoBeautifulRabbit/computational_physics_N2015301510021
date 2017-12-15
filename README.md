@@ -45,8 +45,8 @@
 - [x] [Source code & materials for Exercise_10](https://github.com/SoBeautifulRabbit/computational_physics_N2015301510021/tree/master/Exercise_10-%20Problem5.1_Electric_potential_inside_a_prism)
 </br>
 
-- [ ] [Exercise_11: An Ideal Guitar String]()
-- [ ] [Source code & materials for Exercise_11](https://github.com/SoBeautifulRabbit/computational_physics_N2015301510021/tree/master/Exercise_11-%20Problem6.4_An_Ideal_Guitar_String)
+- [x] [Exercise_11: An Ideal Guitar String](http://note.youdao.com/noteshare?id=9bdba530afec95615008b650a7f1d6e2&sub=B17D083ED7D544959249B158ACCA2F5A)
+- [x] [Source code & materials for Exercise_11](https://github.com/SoBeautifulRabbit/computational_physics_N2015301510021/tree/master/Exercise_11-%20Problem6.4_An_Ideal_Guitar_String)
 </br>
 
 助教姐姐/哥哥您好，上次您发给蔡老师的用于课堂展示的OneTab链接是Exercise_10的Source code & materials的地址，而不是有道云笔记的分享链接，可能是不小心搞混了，从Source code & materials的地址是无法跳转到作业内容的.
