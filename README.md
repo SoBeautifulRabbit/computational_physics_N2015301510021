@@ -49,6 +49,8 @@
 - [x] [Source code & materials for Exercise_11](https://github.com/SoBeautifulRabbit/computational_physics_N2015301510021/tree/master/Exercise_11-%20Problem6.4_An_Ideal_Guitar_String)
 </br>
 
-助教姐姐/哥哥您好，上次您发给蔡老师的用于课堂展示的OneTab链接是Exercise_10的Source code & materials的地址，而不是有道云笔记的分享链接，可能是不小心搞混了，从Source code & materials的地址是无法跳转到作业内容的.
+- [x] [期末论文pdf和源代码](https://github.com/SoBeautifulRabbit/computational_physics_N2015301510021/tree/master/Final_Paper)
+</br>
+
 ## Thank you! 谢谢！
 
