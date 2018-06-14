@@ -32,8 +32,6 @@
 
 - [x] [Exercise_08: Problem3.33 Power Spectrum for a Pendulum](http://note.youdao.com/noteshare?id=c671d6ad22585eb46b97909941da34f6&sub=85F68E6EABD54B35AF301BEA328BE438)
 - [x] [Source code & materials for Exercise_08](https://github.com/SoBeautifulRabbit/computational_physics_N2015301510021/tree/master/Exercise_08-%20Problem3.33_Power_Spectrum_for_a_pendulum)
-</br>
-
 
 ### [-> Midterm: A Little Game(^ ^)](https://github.com/SoBeautifulRabbit/computational_physics_N2015301510021/tree/master/Midterm_A_Little_Game)
 ### [-> Click Here for a quick view of the game !](http://note.youdao.com/noteshare?id=a15354f26250eb97b1e75011d86f7892&sub=214B81BE84D64EBDA175446EDEB06BFD)
