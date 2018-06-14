@@ -34,7 +34,9 @@
 - [x] [Source code & materials for Exercise_08](https://github.com/SoBeautifulRabbit/computational_physics_N2015301510021/tree/master/Exercise_08-%20Problem3.33_Power_Spectrum_for_a_pendulum)
 </br>
 
-- [x] [Midterm: A Little Game(^ ^)](https://github.com/SoBeautifulRabbit/computational_physics_N2015301510021/tree/master/Midterm_A_Little_Game)
+
+### [-> Midterm: A Little Game(^ ^)](https://github.com/SoBeautifulRabbit/computational_physics_N2015301510021/tree/master/Midterm_A_Little_Game)
+### [-> Click Here for a quick view of the game !](http://note.youdao.com/noteshare?id=a15354f26250eb97b1e75011d86f7892&sub=214B81BE84D64EBDA175446EDEB06BFD)
 </br>
 
 - [x] [Exercise_09: The Three-body Problem](http://note.youdao.com/noteshare?id=1d51a5e229cafeb6e967bd81ed28f59a&sub=59E64DB105614452A50D2E6C3C165462)
